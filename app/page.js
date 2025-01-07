@@ -6,7 +6,7 @@ import {
   howItWorksData,
   statsData,
   testimonialsData,
-} from "@/lib/landing_data";
+} from "@/data/landing_data";
 import Image from "next/image";
 import Link from "next/link";
 
